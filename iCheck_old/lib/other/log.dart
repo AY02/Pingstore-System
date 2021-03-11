@@ -1,0 +1,1 @@
+void log(String str, {String type='general'}) => print('log $type --> $str');
